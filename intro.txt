@@ -1,0 +1,5 @@
+learn python fundamentals.
+learn python oops concepts.
+understanig git and github.
+practice github.
+create to-do list.
