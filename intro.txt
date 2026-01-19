@@ -3,3 +3,8 @@ learn python oops concepts.
 understanig git and github.
 practice github.
 create to-do list.
+
+i learned how to resolve merge conflicts.
+i learned how to create and manage repositories.
+practiced branching and merging. 
+
